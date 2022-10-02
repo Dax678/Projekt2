@@ -9,6 +9,7 @@ public class Application {
         ShakeTruskawkowy shakeTruskawkowy = new ShakeTruskawkowy();
 
         shakeTruskawkowy.pij();
+        shakeTruskawkowy.jedz();
         shakeTruskawkowy.smak();
     }
 }
